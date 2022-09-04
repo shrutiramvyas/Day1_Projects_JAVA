@@ -1,0 +1,10 @@
+INFO  | 2022-09-04 17:30:53 | [main] JavaPractice_Day1.App (App.java:16) - Hello World will be printed on info
+WARN  | 2022-09-04 17:30:53 | [main] JavaPractice_Day1.App (App.java:17) - Hello World will be printed on warn
+ERROR | 2022-09-04 17:30:53 | [main] JavaPractice_Day1.App (App.java:18) - Hello World will be printed on error
+INFO  | 2022-09-04 17:31:38 | [main] JavaPractice_Day1.App (App.java:16) - Hello World will be printed on info
+WARN  | 2022-09-04 17:31:38 | [main] JavaPractice_Day1.App (App.java:17) - Hello World will be printed on warn
+ERROR | 2022-09-04 17:31:38 | [main] JavaPractice_Day1.App (App.java:18) - Hello World will be printed on error
+DEBUG | 2022-09-04 17:34:18 | [main] JavaPractice_Day1.App (App.java:15) - Hello World will be printed on Debug
+INFO  | 2022-09-04 17:34:18 | [main] JavaPractice_Day1.App (App.java:16) - Hello World will be printed on info
+WARN  | 2022-09-04 17:34:18 | [main] JavaPractice_Day1.App (App.java:17) - Hello World will be printed on warn
+ERROR | 2022-09-04 17:34:18 | [main] JavaPractice_Day1.App (App.java:18) - Hello World will be printed on error
